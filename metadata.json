@@ -1,0 +1,6 @@
+{
+  "name": "MetricBoard",
+  "description": "Responsive social media analytics dashboard with KPI overview, organic vs paid reach performance chart, and competitor benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
